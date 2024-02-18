@@ -3,7 +3,7 @@ _Я фронтенд разработчик из России_
 
 ---
 
-## 🛠 Стек технологий:
+## 🛠 Навыки и инструменты:
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
